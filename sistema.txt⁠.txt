@@ -1,0 +1,3 @@
+Comando 'uname -a': Proporciona información detallada del sistema operativo y el kernel.
+Comando 'whoami': Muestra el nombre del usuario conectado actualmente a la terminal.
+Es útil conocer esta información al administrar un servidor para identificar qué usuario está realizando cambios, verificar la versión del sistema y gestionar correctamente los permisos de seguridad y administración.
